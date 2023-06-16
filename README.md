@@ -1,3 +1,5 @@
+<h1>Bartosz 14038 Kreator Postaci</h1>
+
 <h2>Struktura systemu/aplikacji</h2>
 <p>Projekt składa się z modułu <code>kreatorPostaci</code>, który zawiera następujące klasy:</p>
 <ul>
